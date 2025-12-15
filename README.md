@@ -10,6 +10,8 @@ using VS Code.
 - Learn how to safely experiment
 
 ## Training Log
+### Day 1 (continued)
+- Practiced Git using VS Code Source Control
 
 ### Day 1
 - Created repository
