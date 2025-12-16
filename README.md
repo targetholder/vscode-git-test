@@ -18,3 +18,7 @@ using VS Code.
 - Connected VS Code to GitHub
 - Opened terminal inside VS Code
 - Created README.md
+
+## Experimental Changes
+
+This section was added on a feature branch to demonstrate branching.
